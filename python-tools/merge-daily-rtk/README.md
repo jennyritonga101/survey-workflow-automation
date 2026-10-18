@@ -1,6 +1,6 @@
-# Daily RTK CSV Merger
+# Stake Out CSV Format Merger
 
-Combines daily RTK survey CSV files into one file
+Combines Stake Out point CSV Format into one file
 ready for import into Maptek PointStudio.
 
 ## Features
