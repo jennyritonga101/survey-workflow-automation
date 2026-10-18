@@ -58,4 +58,4 @@ named Surface <boundary name>.
 
 ## Workflow Overview
 
-![Workflow poster](poster-en.png)
+![Workflow poster](3C7F7174-6B3F-42E6-B4E2-A11918543079.png)
