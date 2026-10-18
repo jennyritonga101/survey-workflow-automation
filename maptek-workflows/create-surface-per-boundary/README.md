@@ -55,3 +55,7 @@ not Windows folders.
 
 A separate surface for each processed boundary,
 named Surface <boundary name>.
+
+## Workflow Overview
+
+![Workflow poster](poster-en.png)
