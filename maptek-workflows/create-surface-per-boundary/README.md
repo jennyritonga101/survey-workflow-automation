@@ -1,6 +1,6 @@
 # Create Surface per Boundary
 
-A Maptek PointStudio workflow that creates separate
+A customised workflow in Maptek PointStudio that creates separate
 topographic surfaces for multiple boundary polygons
 using the same pointcloud input.
 
